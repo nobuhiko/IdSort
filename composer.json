@@ -1,10 +1,10 @@
 {
-  "name": "ec-cube/IdSort",
-  "version": "1.0.0",
+  "name": "ec-cube/idsort",
+  "version": "4.1.0",
   "description": "管理画面の並び順をID順にするプラグイン",
   "type": "eccube-plugin",
   "require": {
-    "ec-cube/plugin-installer": "~0.0.7"
+    "ec-cube/plugin-installer": "~0.0.8 || ^2.0"
   },
   "extra": {
     "code": "IdSort"
